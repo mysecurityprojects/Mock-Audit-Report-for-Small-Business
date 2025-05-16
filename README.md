@@ -45,7 +45,7 @@ The scope of this mock audit includes the following areas:
 3. Cloud products deployed across the organization are misconfigured and can easily be exploited by adversaries.
 4. There is no data backup policy to cover guidelines and procedures that dictate how data is protected and recovered in the event of data loss.
 5. Security Awareness Training should be integrated into the onboarding process for new hires. Many employees have never participated in a best practices training.
-6. Leadership has not been consistent with conducting tabletop exercises and is woefully unprepared to respond to a cybersecurity emergency scenario.
+6. Leadership has not consistently conducted tabletop exercises and is woefully unprepared to respond to a cybersecurity emergency scenario.
 
 **RECOMMENDATIONS**:
 

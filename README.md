@@ -33,7 +33,8 @@ The scope of this mock audit includes the following areas:
 **Interviews**: Conduct interviews with personnel from the vendor's technical, security, and management teams to understand their security practices, responsibilities, and adherence to SBA 
   requirements. Focus on areas such as security implementation, monitoring, incident handling, and compliance processes. 
 
-**Physical Security Assessment**: Physical security controls, including access control, surveillance, and environmental safeguards. 
+**Physical Security Assessment**: Physical security controls, including access control, surveillance, and environmental safeguards. CCTV surveillance, security guards, protective barriers, locks, 
+  perimeter intrusion detection, deterrent systems, and fire protection are areas for consideration. 
 
 **Technical Assessment**: Vulnerability scanning, configuration reviews, and review of security tools. 
 

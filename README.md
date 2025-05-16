@@ -18,7 +18,7 @@ The scope of this mock audit includes the following areas:
 
 **Network Security**: Assessment of firewall configuration and wireless network security. 
 
-**Data Protection**: Evaluation of data backup protocols and access control for sensitive data,
+**Data Protection**: Evaluation of data backup protocols and access control for sensitive data.
 
 **User Awareness**: Evaluation of employee security awareness training. 
 
@@ -40,15 +40,18 @@ The scope of this mock audit includes the following areas:
 
 **FINDINGS AND OBSERVATIONS**:
 
-**RECOMMENDATIONS**:
+1. 15% of the systems operate on legacy hardware/outdated systems, increasing vulnerability risks. 
+2. 75% of assets are not protected with adequate access controls, jeopardizing assets worth 7 million dollars. 
+3. Cloud products deployed across the organization are misconfigured and can easily be exploited by adversaries.
+4. There is no data backup policy to cover guidelines and procedures that dictate how data is protected and recovered in the event of data loss.
+5. Security Awareness Training should be integrated into the onboarding process for new hires. Many employees have never participated in a best practices training.
+6. Leadership has not been consistent with conducting tabletop exercises and is woefully prepared to respond to a cybersecurity emergency scenario.
 
-Include firewall diagram, security tools etc
+**RECOMMENDATIONS**:
 
 **CONCLUSION**:
 
-The audit highlights several common security weaknesses prevalent in small businesses. The identified high-priority recommendations will improve their security posture and reduce their risk of falling victim to cyberattacks.
-
-
+The audit reveals a significant disparity between the vendor's operational focus and their investment in establishing a robust cybersecurity program. This is not uncommon for companies that have expanded and grown their business in a short amount of time. Nonetheless, they must now draw their attention to establishing a mature cybersecurity posture to protect them from potentially impactful threats. Key findings highlight a failure to implement fundamental security controls and processes that are considered industry standards and mandated by many of the cybersecurity frameworks such as FISMA, NIST, and SOC2 that would be necessary to remain in compliance as a third-party vendor. 
 
 
 

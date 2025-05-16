@@ -49,6 +49,19 @@ The scope of this mock audit includes the following areas:
 
 **RECOMMENDATIONS**:
 
+1. Conduct a detailed inventory of all legacy systems, categorizing them by criticality and associated risks. Prioritize the replacement or upgrade of systems posing the highest security risks and supporting critical business functions. Consider implementing compensating controls (e.g., network segmentation, enhanced monitoring) for systems that cannot be immediately upgraded. Implement enhanced security controls and monitoring for the interim period while legacy systems are being upgraded or replaced.
+   
+2. Conduct a comprehensive review and remediation of access control policies and configurations across all assets. Implement the principle of least privilege, ensuring users and applications only have the necessary permissions to perform their tasks. Define clear roles and responsibilities for data and system access. Implement strong authentication mechanisms, including multi-factor authentication (MFA) where feasible. Regularly review and update access control lists and user permissions.
+
+3. Conduct an immediate security configuration review of all deployed cloud products against industry best practices and vendor security guidelines. Implement and enforce secure configuration baselines for all cloud products. Implement robust security monitoring and alerting for all cloud environments.
+
+4. Develop and implement a comprehensive data backup and recovery policy. The policy should define the scope of data to be backed up, backup frequency, retention periods, backup locations (on-site and off-site), data encryption requirements, and recovery procedures. It should also outline roles and responsibilities for data backup and recovery.
+
+5. Integrate mandatory cybersecurity awareness training into the onboarding process for all new employees. Develop training modules covering essential cybersecurity best practices, including password security, phishing awareness, data handling, social engineering, and incident reporting. Ensure new hires complete this training within their first month of employment and should be recurring for all existing employees.
+     
+6. Develop and implement a comprehensive incident response plan (IRP) that outlines procedures for identifying, containing, eradicating, recovering from, and learning from cybersecurity incidents.
+  Conduct regular tabletop exercises involving leadership and relevant stakeholders to simulate various cybersecurity incident scenarios. Following each tabletop exercise (and actual incidents), conduct a lessons learned review to identify areas for improvement in the IRP and incident response processes.
+   
 **CONCLUSION**:
 
 The audit reveals a significant disparity between the vendor's operational focus and their investment in establishing a robust cybersecurity program. This is not uncommon for companies that have expanded and grown their business in a short amount of time. Nonetheless, they must now draw their attention to establishing a mature cybersecurity posture to protect them from potentially impactful threats. Key findings highlight a failure to implement fundamental security controls and processes that are considered industry standards and mandated by many of the cybersecurity frameworks such as FISMA, NIST, and SOC2 that would be necessary to remain in compliance as a third-party vendor. 

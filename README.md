@@ -36,7 +36,7 @@ The scope of this mock audit includes the following areas:
 **Physical Security Assessment**: Physical security controls, including access control, surveillance, and environmental safeguards. CCTV surveillance, security guards, protective barriers, locks, 
   perimeter intrusion detection, deterrent systems, and fire protection are areas for consideration. 
 
-**Technical Assessment**: Vulnerability scanning, configuration reviews, and review of security tools. 
+**Technical Assessment**: Vulnerability scanning, configuration reviews (e.g. firewalls), and review of security tools. 
 
 **FINDINGS AND OBSERVATIONS**:
 

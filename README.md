@@ -42,6 +42,8 @@ The scope of this mock audit includes the following areas:
 
 **RECOMMENDATIONS**:
 
+Include firewall diagram, security tools etc
+
 **CONCLUSION**:
 
 The audit highlights several common security weaknesses prevalent in small businesses. The identified high-priority recommendations will improve their security posture and reduce their risk of falling victim to cyberattacks.

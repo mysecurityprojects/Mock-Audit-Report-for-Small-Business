@@ -26,13 +26,16 @@ The scope of this mock audit includes the following areas:
 
 **METHODOLOGY**:
 
-**Document Review**: 
+**Document Review**: Request and review the vendor's cybersecurity policies, procedures, standards, and guidelines. Documentation related to access control, data protection, incident response, 
+  vulnerability management, business continuity, disaster recovery, and security awareness training. Analyze network diagrams, system configurations, and data flow diagrams relevant to their 
+  interaction with SBA systems and data. 
 
-**Interviews**: 
+**Interviews**: Conduct interviews with personnel from the vendor's technical, security, and management teams to understand their security practices, responsibilities, and adherence to SBA 
+  requirements. Focus on areas such as security implementation, monitoring, incident handling, and compliance processes. 
 
-**Physical Security Assessment**:
+**Physical Security Assessment**: Physical security controls, including access control, surveillance, and environmental safeguards. 
 
-**Technical Assessment**:
+**Technical Assessment**: Vulnerability scanning, configuration reviews, and review of security tools. 
 
 **FINDINGS AND OBSERVATIONS**:
 

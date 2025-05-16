@@ -22,7 +22,7 @@ The scope of this mock audit includes the following areas:
 
 **User Awareness:**
 
-**Incident Response**:
+**Incident Response Preparedness**:
 
 
 
